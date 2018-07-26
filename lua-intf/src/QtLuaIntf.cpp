@@ -25,7 +25,7 @@
 //
 
 #ifndef QTLUAINTF_H
-    #include "LuaIntf/QtLuaIntf.h"
+    #include "lua-intf/QtLuaIntf.h"
     using namespace LuaIntf;
 #endif
 

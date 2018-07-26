@@ -30,7 +30,7 @@
 //
 
 #ifndef LUACOMPAT_H
-    #include "LuaIntf/LuaCompat.h"
+    #include "lua-intf/LuaCompat.h"
 #endif
 
 #if LUA_VERSION_NUM == 501
