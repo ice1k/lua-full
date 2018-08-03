@@ -13,7 +13,7 @@ License terms in LICENSE.txt.
 
 #include <string>
 #include <cassert>
-#include <src/lua.hpp>
+#include <lua/lua.hpp>
 
 #include "LuaTempResult.h"
 #include "LuaObjRef.h"

@@ -23,7 +23,6 @@ LuaInterpreter::LuaInterpreter() : mLua(lua_open()), mOwner(true)
 {
     if (mLua == NULL)
         throw runtime_error("Could not initialize LUA interpreter");
-
     luaL_openlibs(mLua);
 }
 

@@ -7,7 +7,7 @@ License terms in LICENSE.txt.
 #pragma  once
 
 #include <cassert>
-#include <src/lua.hpp>
+#include <lua/lua.hpp>
 
 /** Checker class to verify that stack size unchanged. It tracks the 
     stack top when constructed, and asserts that it is the same when 

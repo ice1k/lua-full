@@ -6,7 +6,7 @@ License terms in LICENSE.txt.
 
 #pragma once
 
-#include <src/lua.hpp>
+#include <lua/lua.hpp>
 
 
 /** Maintains Lua stack: Automatically resets, when destroyed, the stack to where 

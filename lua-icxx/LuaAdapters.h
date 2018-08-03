@@ -9,7 +9,7 @@ License terms in LICENSE.txt.
 #define LUA_ICXX_ADAPTERS_INCLUDED
 
 
-#include <src/lua.hpp>
+#include <lua/lua.hpp>
 #include <string>
 
 

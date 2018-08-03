@@ -10,7 +10,7 @@ License terms in LICENSE.txt.
 
 #include <cassert>
 
-#include <src/lua.hpp>
+#include <lua/lua.hpp>
 
 
 /*  Represent a Lua registry reference for a Lua object.  

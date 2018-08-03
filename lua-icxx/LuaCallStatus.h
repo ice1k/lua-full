@@ -8,7 +8,7 @@ License terms in LICENSE.txt.
 #ifndef LUA_ICXX_CALL_STATUS_INCLUDED
 #define LUA_ICXX_CALL_STATUS_INCLUDED
 
-#include <src/lua.hpp>
+#include <lua/lua.hpp>
 
 
 /// Enumeration of all the Lua error codes
